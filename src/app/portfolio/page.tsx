@@ -9,7 +9,7 @@ function page() {
           <div className="grid lg:grid-cols-2 md:grid-cols-2 grid-cols-1 gap-8">
             <Link href='https://itsikshya.netlify.app' target='_blank' className='group'>
               <div className='overflow-hidden'>
-                <img className='group-hover:scale-105 transition-all duration-400 w-full h-[203px] object-cover' src="/projects/it_Sikshya.png" alt="it_sikshya" />
+                <img className='group-hover:scale-105 transition-all duration-400 w-full h-[203px] object-cover' src="/projects/IT_Sikshya.png" alt="it_sikshya" />
               </div>
               <h2 className='text-2xl font-bold mt-4'>IT Sikshya</h2>
               <p>A React and Tailwind CSS-based educational platform offering hybrid IT training and real-world project experience.</p>
