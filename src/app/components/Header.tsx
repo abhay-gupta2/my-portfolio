@@ -20,7 +20,7 @@ function Header() {
     <header className="fixed top-0 w-full z-50 bg-[#ffffff54] text-white shadow-sm backdrop-blur-[4px] transition-all">
       <div className="container mx-auto px-4 sm:px-6 py-4 flex items-center justify-between">
         {/* Brand */}
-        <div className="text-xl font-bold">Abhay Kumar Gupta</div>
+        <Link href="/" className="text-xl font-bold">Abhay Kumar Gupta</Link>
 
         {/* Desktop Nav */}
         <nav className="hidden lg:flex gap-6 text-lg">
